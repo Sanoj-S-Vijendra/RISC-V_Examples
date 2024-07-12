@@ -1,0 +1,14 @@
+Total instructions executed: 1859916
+Total number of loads (excluding vector): 221658
+Total number of stores (excluding vector): 326960
+Total number of vector loads: 12508
+Total number of vector stores: 37574
+Total number branches: 457510
+
+Total instructions executed in ROI: 513173
+Total number of loads (excluding vector) in ROI: 14938
+Total number of stores (excluding vector) in ROI: 110580
+Total number of vector loads in ROI: 25000
+Total number of vector stores in ROI: 12500
+Total number of vector instructions in ROI: 75000
+Total number branches in ROI: 118036
